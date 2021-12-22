@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **Veronica274/Veronica274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Veronica277's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronica274&show_icons=true&theme=radical)
+![Veronica277's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronica274&show_icons=true&theme=tokyonight)
