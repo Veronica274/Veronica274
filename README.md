@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Verónica Tornero Écija.
++ 🤖 I'm currentry studying Software Robotics Engineering
++ 📩 v.tornero.27@gmail.com
+
 ![Veronica277's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronica274&show_icons=true&theme=react)
