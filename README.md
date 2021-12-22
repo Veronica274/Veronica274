@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 + 💻 🛠️ Enthusiastic about software as well as manual work
 
 ![Veronica277's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronica274&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica274&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
