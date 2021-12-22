@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 + 🤖 I'm currentry studying Software Robotics Engineering
 + 📩 How to contact me: v.tornero.27@gmail.com
++ 💻 🛠️ Enthusiastic about software as well as manual work
 
 ![Veronica277's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronica274&show_icons=true&theme=react)
