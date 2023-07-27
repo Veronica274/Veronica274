@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-+ 🤖 I'm currently studying Robotics Software Engineering
++ 🤖 I'm a Robotics Software Engineer
 + 📩 How to contact me: v.tornero.27@gmail.com
 + 💻 🛠️ Enthusiastic about software as well as manual work
 
